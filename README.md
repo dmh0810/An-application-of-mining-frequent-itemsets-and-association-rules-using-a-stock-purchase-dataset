@@ -1,10 +1,13 @@
 # Market Basket Analysis: an application of mining frequent itemsets and association rules using a stock purchase dataset
 This contains the code for my seminar paper for the elective module "Empirische Kundendatenanalyse: Eine praxisorientierte Einführung" in Winter Term 2019/2020 of Department of Marketing, Faculty of Business and Economics, Goethe-University Frankfurt am Main
 
-*Abstract:
 
-Market Basket Analysis is a widely used approach to identify sets of products that are often purchased together. One method of Market Basket Analysis involves mining frequent itemsets and association rules between items in a large database. Knowledge gained from this analysis can be essential for diverse marketing activities such as product placements or promotional campaigns. This paper demonstrates the implementation of the APRIORI algorithm on the stock purchase data in 2019 of ING-DiBa Bank to discover sets of shares that were often bought together and the correlation between these itemsets.
+*Abstract:*
+
+*Market Basket Analysis is a widely used approach to identify sets of products that are often purchased together. One method of Market Basket Analysis involves mining frequent itemsets and association rules between items in a large database. Knowledge gained from this analysis can be essential for diverse marketing activities such as product placements or promotional campaigns. This paper demonstrates the implementation of the APRIORI algorithm on the stock purchase data in 2019 of ING-DiBa Bank to discover sets of shares that were often bought together and the correlation between these itemsets.
 Keywords: market basket analysis, frequent itemsets, association rules, Apriori algorithm, stock purchase*
+
+
 
 **Introduction:**
 
