@@ -1,0 +1,1 @@
+# Warenkorbanalyse-mit-Wertpapierdaten
