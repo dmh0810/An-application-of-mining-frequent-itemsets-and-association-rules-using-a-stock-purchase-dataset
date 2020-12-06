@@ -1,5 +1,5 @@
 # Market Basket Analysis: an application of mining frequent itemsets and association rules using a stock purchase dataset
-This contains the code for my seminar paper for the elective module "Empirische Kundendatenanalyse: Eine praxisorientierte Einführung" in Winter Term 2019/2020 of Department of Marketing, Faculty of Business and Economics, Goethe-University Frankfurt am Main
+This contains the code for my seminar paper for the elective module "Empirische Kundendatenanalyse: Eine praxisorientierte Einführung" in Winter Term 2019/2020 of Department of Marketing, Faculty of Business and Economics at Goethe-University Frankfurt am Main.
 
 
 *Abstract:*
